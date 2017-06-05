@@ -1,6 +1,6 @@
 \title{Statuten}
 \author{FunkFeuer Wien - Verein zur Förderung freier Netze (ZVR 814804682)}
-\subtitle{Nach Beschluss durch die Generalversammlung am 05.05.2014}
+\subtitle{Nach Beschluss durch die Generalversammlung am 31.05.2017}
 \date{}
 \maketitle
 
@@ -148,7 +148,7 @@ Mit Eingang des Antrages wird der Werber automatisch als außerordentliches Mitg
 
     (e) Beschluss eines gerichtlich bestellten Kurators (§ 11 Abs. 2 letzter Satz dieser Statuten) binnen vier Wochen statt.
 
-3. Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich oder per E-Mail einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a c), durch die/einen Rechnungsprüfer (Abs. 2 lit. d) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. d). Anträge zur Generalversammlung sind mindestens drei Tage vor dem Termin der Generalversammlung beim Vorstand schriftlich oder per E-Mail einzureichen.
+3. Sowohl zu den ordentlichen wie auch zu den außerordentlichen Generalversammlungen sind alle Mitglieder mindestens zwei Wochen vor dem Termin schriftlich oder per E-Mail einzuladen. Die Anberaumung der Generalversammlung hat unter Angabe der Tagesordnung zu erfolgen. Die Einberufung erfolgt durch den Vorstand (Abs. 1 und Abs. 2 lit. a c), durch die/einen Rechnungsprüfer (Abs. 2 lit. d) oder durch einen gerichtlich bestellten Kurator (Abs. 2 lit. d). Anträge zur Generalversammlung sind mindestens drei Tage vor dem Termin der Generalversammlung beim Vorstand schriftlich oder per E-Mail einzureichen. Kandidaturen für den Vorstand sind bis spätestens drei Tage vor der Generalversammlung unter Nennung der angestrebten Funktion(en) bekannt zu gegeben. Die Nennung mehrfacher Funktionen ist möglich. Die Wahl der Vorstandsmitglieder erfolgt auf Basis dieser Nennungen. Sollte für eine konkrete Funktion keine einzige Kandidatin/kein einziger Kandidat zur Verfügung stehen, ist eine spontane Kandidatur weiterhin möglich.
 
 4. Gültige Beschlüsse ausgenommen solche über einen Antrag auf Einberufung einer außerordentlichen Generalversammlung können nur zur Tagesordnung gefasst werden.
 
