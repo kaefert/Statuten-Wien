@@ -158,7 +158,7 @@ Mit Eingang des Antrages wird der Werber automatisch als außerordentliches Mitg
 
 7. Die Wahlen und die Beschlussfassungen in der Generalversammlung erfolgen in der Regel mit einfacher Mehrheit der abgegebenen gültigen Stimmen. Beschlüsse, mit denen das Statut des Vereins geändert oder der Verein aufgelöst werden soll, bedürfen jedoch einer qualifizierten Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen.
 
-8. Den Vorsitz in der Generalversammlung führt der/die Obmann/Obfrau, in dessen/deren Verhinderung sein/e/ihr/e Stellvertreter/in. Wenn auch diese/r verhindert ist, so führt das an Jahren älteste anwesende Vorstandsmitglied den Vorsitz.
+8. Den Vorsitz in der Generalversammlung führt der/die Obmann/Obfrau, in dessen/deren Verhinderung sein/e/ihr/e Stellvertreter/in. Wenn auch diese/r verhindert ist, so führt jenes anwesende Vorstandsmitglied, welches am längsten Mitglied des Vereins ist den Vorsitz.
 
 
 # §10: Aufgaben der Generalversammlung
