@@ -90,7 +90,7 @@ ernannt werden.
 
 3. Der Antrag auf Mitgliedschaft erfolgt durch Einbringung eines vollständig ausgefüllten und unterzeichneten Mitgliedsantrages. Die Einbringung kann per Post an die Vereinsadresse oder persönlich an den Schriftführer oder von diesem legitimierte Personen erfolgen. 
 Mit Eingang des Antrages wird der Werber automatisch als außerordentliches Mitglied aufgenommen.
-Über die Aufnahme von ordentlichen, außerordentlichen und fördernden Mitgliedern entscheidet der Vorstand innerhalb einer Frist von 6 Monaten. Die Aufnahme kann ohne Angabe von Gründen verweigert werden.
+Über die Aufnahme von ordentlichen und fördernden Mitgliedern entscheidet der Vorstand innerhalb einer Frist von 6 Monaten. Die Aufnahme kann ohne Angabe von Gründen verweigert werden.
 
 4. Die Ernennung zum Ehrenmitglied erfolgt auf Antrag des Vorstands durch die Generalversammlung.
 
